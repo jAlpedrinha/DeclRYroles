@@ -4,18 +4,20 @@ D(ecl)RY-roles
 
 Declarative and powerful permission engine
 
+This project is part of an effort to bring some tools from a closed project into open source community.
+Currently missing some TLC. News to come 
 
 Getting Started
 -------------
-Not available
+Coming soon..
 
 
 Documentation
 -------------
-Not available
+Coming soon..
 
 
-About D(ecl)RY-roles
+About D(ecl)RY
 -------------
-
+Coming soon..
 
